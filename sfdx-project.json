@@ -17,6 +17,10 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+            "dependencies": [
+                "package": "core-base-metadata",
+                "versionnumber": "0.1.0.LATEST"
+            ]
         }
     ],
     "name": "Package_M",
