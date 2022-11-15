@@ -1,0 +1,30 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": false
+        },
+        {
+            "path": "core",
+            "package": "core-base-metadata",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        },
+        {
+            "path": "Themes-styles",
+            "package": "themes-styles-metadata",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "name": "Package_M",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "core-base-metadata": "0Ho7Q0000008OZGSA2",
+        "themes-styles-metadata": "0Ho7Q0000008OZLSA2"
+    }
+}
